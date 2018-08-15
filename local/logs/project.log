@@ -1,0 +1,5018 @@
+2018-08-10T02:14:55.904Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-10T02:14:56.052Z - normal: checking language setting...
+2018-08-10T02:14:56.054Z - normal: Language: zh
+2018-08-10T02:15:07.218Z - success: protocol editor-framework registered
+2018-08-10T02:15:07.218Z - success: protocol app registered
+2018-08-10T02:15:07.218Z - success: protocol theme registered
+2018-08-10T02:15:07.219Z - success: protocol packages registered
+2018-08-10T02:15:07.219Z - success: protocol unpack registerred
+2018-08-10T02:15:07.219Z - success: protocol disable-commonjs registerred
+2018-08-10T02:15:07.449Z - normal: connected!
+2018-08-10T02:15:07.451Z - normal: Check project /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T02:15:07.472Z - normal: Initializing Cocos2d
+2018-08-10T02:15:11.431Z - normal: Initializing Asset Database
+2018-08-10T02:15:11.638Z - success: protocol uuid registerred
+2018-08-10T02:15:11.638Z - success: protocol db registerred
+2018-08-10T02:15:11.639Z - success: protocol thumbnail registerred
+2018-08-10T02:15:11.639Z - normal: Loading editor/builtin packages
+2018-08-10T02:15:11.788Z - success: anysdk loaded
+2018-08-10T02:15:12.140Z - success: assets loaded
+2018-08-10T02:15:12.172Z - success: builder loaded
+2018-08-10T02:15:12.176Z - success: cocos-analytics loaded
+2018-08-10T02:15:12.183Z - success: console loaded
+2018-08-10T02:15:12.237Z - success: fb-instant-games loaded
+2018-08-10T02:15:12.245Z - success: hierarchy loaded
+2018-08-10T02:15:12.279Z - success: inspector loaded
+2018-08-10T02:15:12.282Z - success: keystore loaded
+2018-08-10T02:15:12.297Z - success: node-library loaded
+2018-08-10T02:15:12.347Z - success: package-asset loaded
+2018-08-10T02:15:12.352Z - success: preferences loaded
+2018-08-10T02:15:12.359Z - success: project-exporter loaded
+2018-08-10T02:15:12.399Z - success: project-importer loaded
+2018-08-10T02:15:12.404Z - success: project-settings loaded
+2018-08-10T02:15:12.534Z - success: ui-kit loaded
+2018-08-10T02:15:12.613Z - success: ui-grid loaded
+2018-08-10T02:15:12.618Z - success: scene loaded
+2018-08-10T02:15:12.619Z - success: sprite-editor loaded
+2018-08-10T02:15:12.624Z - success: store loaded
+2018-08-10T02:15:12.660Z - success: timeline loaded
+2018-08-10T02:15:12.660Z - normal: Loading builtin packages
+2018-08-10T02:15:12.775Z - success: asset-db-debugger loaded
+2018-08-10T02:15:12.809Z - success: color-picker loaded
+2018-08-10T02:15:12.885Z - success: package-manager loaded
+2018-08-10T02:15:12.890Z - success: qqplay-adapter loaded
+2018-08-10T02:15:13.225Z - success: sdkbox loaded
+2018-08-10T02:15:13.254Z - normal: last time update is in one day
+2018-08-10T02:15:13.254Z - success: tester loaded
+2018-08-10T02:15:13.320Z - success: ui-kit-preview-extra loaded
+2018-08-10T02:15:13.511Z - success: ui-kit-preview loaded
+2018-08-10T02:15:13.611Z - success: ui-tree loaded
+2018-08-10T02:15:13.682Z - success: weapp-adapter loaded
+2018-08-10T02:15:17.527Z - normal: Initializing project /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T02:15:17.712Z - normal: Loading packages
+2018-08-10T02:15:17.719Z - normal: Watching packages
+2018-08-10T02:15:17.977Z - normal: Run Application
+2018-08-10T02:15:30.457Z - success: preview server running at http://localhost:7457
+2018-08-10T02:15:41.399Z - normal: 1.9.2
+2018-08-10T02:43:39.989Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": true,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": true,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-10T02:43:40.053Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T02:43:40.053Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-10T02:43:40.870Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-10T02:44:18.855Z - normal: Compiled project javascript file successfully
+2018-08-10T02:44:18.861Z - normal: Start building assets
+2018-08-10T02:44:18.861Z - normal: Start spawn build-worker
+2018-08-10T02:44:19.705Z - normal: Finish spawn build-worker
+2018-08-10T02:44:19.705Z - normal: Start init build-worker
+2018-08-10T02:44:24.751Z - normal: 1.9.2
+2018-08-10T02:44:24.948Z - normal: Finish init build-worker
+2018-08-10T02:44:24.948Z - normal: Start build-assets in worker
+2018-08-10T02:44:25.853Z - normal: Finish build-assets in worker
+2018-08-10T02:44:25.860Z - normal: Finish building assets
+2018-08-10T02:44:25.867Z - normal: Start building raw assets
+2018-08-10T02:44:25.868Z - normal: Start building plugin scripts
+2018-08-10T02:44:25.949Z - normal: Finish building raw assets
+2018-08-10T02:44:25.987Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-10T02:44:26.033Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template-dev/index.html
+2018-08-10T02:44:26.219Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-10T02:47:05.395Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": true,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": true,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-10T02:47:05.425Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T02:47:05.425Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-10T02:47:05.427Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-10T02:47:09.190Z - normal: Compiled project javascript file successfully
+2018-08-10T02:47:09.190Z - normal: Start building assets
+2018-08-10T02:47:09.191Z - normal: Start spawn build-worker
+2018-08-10T02:47:10.061Z - normal: Finish spawn build-worker
+2018-08-10T02:47:10.061Z - normal: Start init build-worker
+2018-08-10T02:47:12.870Z - normal: 1.9.2
+2018-08-10T02:47:13.045Z - normal: Finish init build-worker
+2018-08-10T02:47:13.045Z - normal: Start build-assets in worker
+2018-08-10T02:47:13.769Z - normal: Finish build-assets in worker
+2018-08-10T02:47:13.772Z - normal: Finish building assets
+2018-08-10T02:47:13.779Z - normal: Start building raw assets
+2018-08-10T02:47:13.780Z - normal: Start building plugin scripts
+2018-08-10T02:47:13.844Z - normal: Finish building raw assets
+2018-08-10T02:47:13.872Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-10T02:47:13.877Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template-dev/index.html
+2018-08-10T02:47:13.927Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-10T02:47:48.953Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-10T02:47:48.956Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T02:47:48.956Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-10T02:47:48.956Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-10T02:47:51.450Z - normal: Compiled project javascript file successfully
+2018-08-10T02:47:51.450Z - normal: Start building assets
+2018-08-10T02:47:51.450Z - normal: Start spawn build-worker
+2018-08-10T02:47:52.203Z - normal: Finish spawn build-worker
+2018-08-10T02:47:52.203Z - normal: Start init build-worker
+2018-08-10T02:47:54.295Z - normal: 1.9.2
+2018-08-10T02:47:54.457Z - normal: Finish init build-worker
+2018-08-10T02:47:54.457Z - normal: Start build-assets in worker
+2018-08-10T02:47:54.889Z - normal: Finish build-assets in worker
+2018-08-10T02:47:54.905Z - normal: Finish building assets
+2018-08-10T02:47:54.908Z - normal: Start building raw assets
+2018-08-10T02:47:54.909Z - normal: Start building plugin scripts
+2018-08-10T02:47:54.957Z - normal: Finish building raw assets
+2018-08-10T02:47:54.974Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-10T02:47:54.981Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-10T02:47:55.020Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-10T02:59:27.807Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-10T02:59:27.841Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T02:59:27.841Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-10T02:59:27.843Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-10T02:59:32.878Z - normal: Compiled project javascript file successfully
+2018-08-10T02:59:32.879Z - normal: Start building assets
+2018-08-10T02:59:32.879Z - normal: Start spawn build-worker
+2018-08-10T02:59:34.370Z - normal: Finish spawn build-worker
+2018-08-10T02:59:34.452Z - normal: Start init build-worker
+2018-08-10T02:59:38.911Z - normal: 1.9.2
+2018-08-10T02:59:39.183Z - normal: Finish init build-worker
+2018-08-10T02:59:39.183Z - normal: Start build-assets in worker
+2018-08-10T02:59:39.961Z - normal: Finish build-assets in worker
+2018-08-10T02:59:39.974Z - normal: Finish building assets
+2018-08-10T02:59:39.992Z - normal: Start building raw assets
+2018-08-10T02:59:39.993Z - normal: Start building plugin scripts
+2018-08-10T02:59:40.085Z - normal: Finish building raw assets
+2018-08-10T02:59:40.133Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-10T02:59:40.143Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-10T02:59:40.264Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-10T03:01:50.558Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-10T03:01:50.599Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T03:01:50.599Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-10T03:01:50.604Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-10T03:01:54.764Z - normal: Compiled project javascript file successfully
+2018-08-10T03:01:54.764Z - normal: Start building assets
+2018-08-10T03:01:54.764Z - normal: Start spawn build-worker
+2018-08-10T03:01:56.245Z - normal: Finish spawn build-worker
+2018-08-10T03:01:56.245Z - normal: Start init build-worker
+2018-08-10T03:02:00.434Z - normal: 1.9.2
+2018-08-10T03:02:00.687Z - normal: Finish init build-worker
+2018-08-10T03:02:00.688Z - normal: Start build-assets in worker
+2018-08-10T03:02:01.368Z - normal: Finish build-assets in worker
+2018-08-10T03:02:01.381Z - normal: Finish building assets
+2018-08-10T03:02:01.398Z - normal: Start building raw assets
+2018-08-10T03:02:01.400Z - normal: Start building plugin scripts
+2018-08-10T03:02:01.494Z - normal: Finish building raw assets
+2018-08-10T03:02:01.536Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-10T03:02:01.577Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-10T03:02:01.593Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-10T07:02:56.838Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-10T07:02:56.850Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-10T07:02:56.850Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-10T07:02:56.851Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-10T07:02:59.580Z - normal: Compiled project javascript file successfully
+2018-08-10T07:02:59.581Z - normal: Start building assets
+2018-08-10T07:02:59.581Z - normal: Start spawn build-worker
+2018-08-10T07:03:00.362Z - normal: Finish spawn build-worker
+2018-08-10T07:03:00.362Z - normal: Start init build-worker
+2018-08-10T07:03:04.261Z - normal: 1.9.2
+2018-08-10T07:03:04.512Z - normal: Finish init build-worker
+2018-08-10T07:03:04.513Z - normal: Start build-assets in worker
+2018-08-10T07:03:05.765Z - normal: Finish build-assets in worker
+2018-08-10T07:03:05.778Z - normal: Finish building assets
+2018-08-10T07:03:05.785Z - normal: Start building raw assets
+2018-08-10T07:03:05.787Z - normal: Start building plugin scripts
+2018-08-10T07:03:05.921Z - normal: Finish building raw assets
+2018-08-10T07:03:05.951Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-10T07:03:05.958Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-10T07:03:06.004Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T08:36:17.224Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T08:36:17.283Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T08:36:17.284Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T08:36:17.395Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T08:36:28.187Z - normal: Compiled project javascript file successfully
+2018-08-14T08:36:28.214Z - normal: Start building assets
+2018-08-14T08:36:28.215Z - normal: Start spawn build-worker
+2018-08-14T08:36:31.322Z - normal: Finish spawn build-worker
+2018-08-14T08:36:31.322Z - normal: Start init build-worker
+2018-08-14T08:36:49.559Z - normal: 1.9.2
+2018-08-14T08:36:49.991Z - normal: Finish init build-worker
+2018-08-14T08:36:49.991Z - normal: Start build-assets in worker
+2018-08-14T08:36:52.446Z - normal: Finish build-assets in worker
+2018-08-14T08:36:52.471Z - normal: Finish building assets
+2018-08-14T08:36:52.484Z - normal: Start building raw assets
+2018-08-14T08:36:52.486Z - normal: Start building plugin scripts
+2018-08-14T08:36:52.602Z - normal: Finish building raw assets
+2018-08-14T08:36:52.741Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T08:36:52.859Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T08:36:53.110Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T08:53:36.560Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T08:53:36.607Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T08:53:36.608Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T08:53:36.610Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T08:53:48.503Z - normal: Compiled project javascript file successfully
+2018-08-14T08:53:48.528Z - normal: Start building assets
+2018-08-14T08:53:48.528Z - normal: Start spawn build-worker
+2018-08-14T08:53:52.446Z - normal: Finish spawn build-worker
+2018-08-14T08:53:52.446Z - normal: Start init build-worker
+2018-08-14T08:54:00.665Z - normal: 1.9.2
+2018-08-14T08:54:01.085Z - normal: Finish init build-worker
+2018-08-14T08:54:01.086Z - normal: Start build-assets in worker
+2018-08-14T08:54:02.034Z - normal: Finish build-assets in worker
+2018-08-14T08:54:02.097Z - normal: Finish building assets
+2018-08-14T08:54:02.108Z - normal: Start building raw assets
+2018-08-14T08:54:02.109Z - normal: Start building plugin scripts
+2018-08-14T08:54:02.256Z - normal: Finish building raw assets
+2018-08-14T08:54:02.334Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T08:54:02.388Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T08:54:02.659Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T08:56:02.805Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T08:56:02.850Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T08:56:02.850Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T08:56:02.855Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T08:56:08.759Z - normal: Compiled project javascript file successfully
+2018-08-14T08:56:08.759Z - normal: Start building assets
+2018-08-14T08:56:08.760Z - normal: Start spawn build-worker
+2018-08-14T08:56:11.123Z - normal: Finish spawn build-worker
+2018-08-14T08:56:11.123Z - normal: Start init build-worker
+2018-08-14T08:56:17.225Z - normal: 1.9.2
+2018-08-14T08:56:17.639Z - normal: Finish init build-worker
+2018-08-14T08:56:17.639Z - normal: Start build-assets in worker
+2018-08-14T08:56:18.478Z - normal: Finish build-assets in worker
+2018-08-14T08:56:18.490Z - normal: Finish building assets
+2018-08-14T08:56:18.500Z - normal: Start building raw assets
+2018-08-14T08:56:18.501Z - normal: Start building plugin scripts
+2018-08-14T08:56:18.630Z - normal: Finish building raw assets
+2018-08-14T08:56:18.677Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T08:56:18.685Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T08:56:18.882Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T08:57:51.251Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T08:57:51.285Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T08:57:51.285Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T08:57:51.289Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T08:57:56.898Z - normal: Compiled project javascript file successfully
+2018-08-14T08:57:56.899Z - normal: Start building assets
+2018-08-14T08:57:56.899Z - normal: Start spawn build-worker
+2018-08-14T08:57:59.518Z - normal: Finish spawn build-worker
+2018-08-14T08:57:59.519Z - normal: Start init build-worker
+2018-08-14T08:58:05.580Z - normal: 1.9.2
+2018-08-14T08:58:05.962Z - normal: Finish init build-worker
+2018-08-14T08:58:05.963Z - normal: Start build-assets in worker
+2018-08-14T08:58:06.731Z - normal: Finish build-assets in worker
+2018-08-14T08:58:06.748Z - normal: Finish building assets
+2018-08-14T08:58:06.758Z - normal: Start building raw assets
+2018-08-14T08:58:06.759Z - normal: Start building plugin scripts
+2018-08-14T08:58:06.878Z - normal: Finish building raw assets
+2018-08-14T08:58:06.944Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T08:58:06.954Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T08:58:07.101Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:00:51.750Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:00:51.787Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:00:51.788Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:00:51.791Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:00:55.565Z - normal: Compiled project javascript file successfully
+2018-08-14T09:00:55.565Z - normal: Start building assets
+2018-08-14T09:00:55.565Z - normal: Start spawn build-worker
+2018-08-14T09:00:56.597Z - normal: Finish spawn build-worker
+2018-08-14T09:00:56.598Z - normal: Start init build-worker
+2018-08-14T09:01:01.382Z - normal: 1.9.2
+2018-08-14T09:01:01.607Z - normal: Finish init build-worker
+2018-08-14T09:01:01.608Z - normal: Start build-assets in worker
+2018-08-14T09:01:02.237Z - normal: Finish build-assets in worker
+2018-08-14T09:01:02.245Z - normal: Finish building assets
+2018-08-14T09:01:02.251Z - normal: Start building raw assets
+2018-08-14T09:01:02.252Z - normal: Start building plugin scripts
+2018-08-14T09:01:02.309Z - normal: Finish building raw assets
+2018-08-14T09:01:02.357Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:01:02.396Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:01:02.429Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:08:02.783Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:08:02.793Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:08:02.830Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:08:02.833Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:08:06.492Z - normal: Compiled project javascript file successfully
+2018-08-14T09:08:06.492Z - normal: Start building assets
+2018-08-14T09:08:06.492Z - normal: Start spawn build-worker
+2018-08-14T09:08:07.403Z - normal: Finish spawn build-worker
+2018-08-14T09:08:07.404Z - normal: Start init build-worker
+2018-08-14T09:08:10.122Z - normal: 1.9.2
+2018-08-14T09:08:10.362Z - normal: Finish init build-worker
+2018-08-14T09:08:10.362Z - normal: Start build-assets in worker
+2018-08-14T09:08:10.833Z - normal: Finish build-assets in worker
+2018-08-14T09:08:10.839Z - normal: Finish building assets
+2018-08-14T09:08:10.849Z - normal: Start building raw assets
+2018-08-14T09:08:10.850Z - normal: Start building plugin scripts
+2018-08-14T09:08:10.910Z - normal: Finish building raw assets
+2018-08-14T09:08:10.949Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:08:10.959Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:08:10.983Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:09:03.189Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:09:03.216Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:09:03.216Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:09:03.218Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:09:08.462Z - normal: Compiled project javascript file successfully
+2018-08-14T09:09:08.462Z - normal: Start building assets
+2018-08-14T09:09:08.463Z - normal: Start spawn build-worker
+2018-08-14T09:09:10.589Z - normal: Finish spawn build-worker
+2018-08-14T09:09:10.590Z - normal: Start init build-worker
+2018-08-14T09:09:17.873Z - normal: 1.9.2
+2018-08-14T09:09:18.397Z - normal: Finish init build-worker
+2018-08-14T09:09:18.397Z - normal: Start build-assets in worker
+2018-08-14T09:09:19.211Z - normal: Finish build-assets in worker
+2018-08-14T09:09:19.215Z - normal: Finish building assets
+2018-08-14T09:09:19.232Z - normal: Start building raw assets
+2018-08-14T09:09:19.233Z - normal: Start building plugin scripts
+2018-08-14T09:09:19.307Z - normal: Finish building raw assets
+2018-08-14T09:09:19.390Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:09:19.414Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:09:19.451Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:10:41.643Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:10:41.729Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:10:41.729Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:10:41.738Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:10:48.824Z - normal: Compiled project javascript file successfully
+2018-08-14T09:10:48.831Z - normal: Start building assets
+2018-08-14T09:10:48.831Z - normal: Start spawn build-worker
+2018-08-14T09:10:51.227Z - normal: Finish spawn build-worker
+2018-08-14T09:10:51.227Z - normal: Start init build-worker
+2018-08-14T09:10:55.738Z - normal: 1.9.2
+2018-08-14T09:10:56.056Z - normal: Finish init build-worker
+2018-08-14T09:10:56.056Z - normal: Start build-assets in worker
+2018-08-14T09:10:56.947Z - normal: Finish build-assets in worker
+2018-08-14T09:10:56.965Z - normal: Finish building assets
+2018-08-14T09:10:56.983Z - normal: Start building raw assets
+2018-08-14T09:10:56.985Z - normal: Start building plugin scripts
+2018-08-14T09:10:57.110Z - normal: Finish building raw assets
+2018-08-14T09:10:57.157Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:10:57.190Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:10:57.306Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:12:03.662Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:12:03.707Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:12:03.708Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:12:03.709Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:12:08.729Z - normal: Compiled project javascript file successfully
+2018-08-14T09:12:08.729Z - normal: Start building assets
+2018-08-14T09:12:08.730Z - normal: Start spawn build-worker
+2018-08-14T09:12:10.491Z - normal: Finish spawn build-worker
+2018-08-14T09:12:10.491Z - normal: Start init build-worker
+2018-08-14T09:12:15.898Z - normal: 1.9.2
+2018-08-14T09:12:16.229Z - normal: Finish init build-worker
+2018-08-14T09:12:16.230Z - normal: Start build-assets in worker
+2018-08-14T09:12:16.979Z - normal: Finish build-assets in worker
+2018-08-14T09:12:16.983Z - normal: Finish building assets
+2018-08-14T09:12:16.998Z - normal: Start building raw assets
+2018-08-14T09:12:16.999Z - normal: Start building plugin scripts
+2018-08-14T09:12:17.063Z - normal: Finish building raw assets
+2018-08-14T09:12:17.101Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:12:17.125Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:12:17.182Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:14:15.207Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:14:15.221Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:14:15.221Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:14:15.224Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:14:18.124Z - normal: Compiled project javascript file successfully
+2018-08-14T09:14:18.125Z - normal: Start building assets
+2018-08-14T09:14:18.125Z - normal: Start spawn build-worker
+2018-08-14T09:14:19.081Z - normal: Finish spawn build-worker
+2018-08-14T09:14:19.082Z - normal: Start init build-worker
+2018-08-14T09:14:21.843Z - normal: 1.9.2
+2018-08-14T09:14:22.064Z - normal: Finish init build-worker
+2018-08-14T09:14:22.064Z - normal: Start build-assets in worker
+2018-08-14T09:14:22.540Z - normal: Finish build-assets in worker
+2018-08-14T09:14:22.545Z - normal: Finish building assets
+2018-08-14T09:14:22.550Z - normal: Start building raw assets
+2018-08-14T09:14:22.551Z - normal: Start building plugin scripts
+2018-08-14T09:14:22.613Z - normal: Finish building raw assets
+2018-08-14T09:14:22.648Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:14:22.666Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:14:22.706Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:15:47.526Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:15:47.565Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:15:47.565Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:15:47.571Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:15:53.240Z - normal: Compiled project javascript file successfully
+2018-08-14T09:15:53.241Z - normal: Start building assets
+2018-08-14T09:15:53.241Z - normal: Start spawn build-worker
+2018-08-14T09:15:55.325Z - normal: Finish spawn build-worker
+2018-08-14T09:15:55.326Z - normal: Start init build-worker
+2018-08-14T09:16:01.221Z - normal: 1.9.2
+2018-08-14T09:16:01.564Z - normal: Finish init build-worker
+2018-08-14T09:16:01.564Z - normal: Start build-assets in worker
+2018-08-14T09:16:02.380Z - normal: Finish build-assets in worker
+2018-08-14T09:16:02.384Z - normal: Finish building assets
+2018-08-14T09:16:02.400Z - normal: Start building raw assets
+2018-08-14T09:16:02.402Z - normal: Start building plugin scripts
+2018-08-14T09:16:02.468Z - normal: Finish building raw assets
+2018-08-14T09:16:02.502Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:16:02.523Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:16:02.572Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:23:27.012Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:23:27.036Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:23:27.037Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:23:27.040Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:23:30.187Z - normal: Compiled project javascript file successfully
+2018-08-14T09:23:30.187Z - normal: Start building assets
+2018-08-14T09:23:30.187Z - normal: Start spawn build-worker
+2018-08-14T09:23:31.106Z - normal: Finish spawn build-worker
+2018-08-14T09:23:31.106Z - normal: Start init build-worker
+2018-08-14T09:23:33.871Z - normal: 1.9.2
+2018-08-14T09:23:34.099Z - normal: Finish init build-worker
+2018-08-14T09:23:34.099Z - normal: Start build-assets in worker
+2018-08-14T09:23:34.575Z - normal: Finish build-assets in worker
+2018-08-14T09:23:34.578Z - normal: Finish building assets
+2018-08-14T09:23:34.584Z - normal: Start building raw assets
+2018-08-14T09:23:34.585Z - normal: Start building plugin scripts
+2018-08-14T09:23:34.647Z - normal: Finish building raw assets
+2018-08-14T09:23:34.681Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:23:34.688Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:23:34.722Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:25:37.793Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:25:37.812Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:25:37.813Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:25:37.816Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:25:40.944Z - normal: Compiled project javascript file successfully
+2018-08-14T09:25:40.945Z - normal: Start building assets
+2018-08-14T09:25:40.945Z - normal: Start spawn build-worker
+2018-08-14T09:25:42.030Z - normal: Finish spawn build-worker
+2018-08-14T09:25:42.030Z - normal: Start init build-worker
+2018-08-14T09:25:46.274Z - normal: 1.9.2
+2018-08-14T09:25:46.509Z - normal: Finish init build-worker
+2018-08-14T09:25:46.510Z - normal: Start build-assets in worker
+2018-08-14T09:25:46.997Z - normal: Finish build-assets in worker
+2018-08-14T09:25:46.999Z - normal: Finish building assets
+2018-08-14T09:25:47.012Z - normal: Start building raw assets
+2018-08-14T09:25:47.014Z - normal: Start building plugin scripts
+2018-08-14T09:25:47.068Z - normal: Finish building raw assets
+2018-08-14T09:25:47.138Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:25:47.149Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:25:47.198Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:37:17.428Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:37:17.461Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:37:17.462Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:37:17.465Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:37:20.844Z - normal: Compiled project javascript file successfully
+2018-08-14T09:37:20.845Z - normal: Start building assets
+2018-08-14T09:37:20.845Z - normal: Start spawn build-worker
+2018-08-14T09:37:21.947Z - normal: Finish spawn build-worker
+2018-08-14T09:37:21.947Z - normal: Start init build-worker
+2018-08-14T09:37:25.114Z - normal: 1.9.2
+2018-08-14T09:37:25.356Z - normal: Finish init build-worker
+2018-08-14T09:37:25.356Z - normal: Start build-assets in worker
+2018-08-14T09:37:25.909Z - normal: Finish build-assets in worker
+2018-08-14T09:37:25.915Z - normal: Finish building assets
+2018-08-14T09:37:25.921Z - normal: Start building raw assets
+2018-08-14T09:37:25.923Z - normal: Start building plugin scripts
+2018-08-14T09:37:25.993Z - normal: Finish building raw assets
+2018-08-14T09:37:26.050Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:37:26.065Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:37:26.092Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:38:22.852Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:38:22.888Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:38:22.889Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:38:22.890Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:38:28.317Z - normal: Compiled project javascript file successfully
+2018-08-14T09:38:28.317Z - normal: Start building assets
+2018-08-14T09:38:28.317Z - normal: Start spawn build-worker
+2018-08-14T09:38:29.296Z - normal: Finish spawn build-worker
+2018-08-14T09:38:29.297Z - normal: Start init build-worker
+2018-08-14T09:38:32.557Z - normal: 1.9.2
+2018-08-14T09:38:32.777Z - normal: Finish init build-worker
+2018-08-14T09:38:32.778Z - normal: Start build-assets in worker
+2018-08-14T09:38:33.228Z - normal: Finish build-assets in worker
+2018-08-14T09:38:33.231Z - normal: Finish building assets
+2018-08-14T09:38:33.237Z - normal: Start building raw assets
+2018-08-14T09:38:33.238Z - normal: Start building plugin scripts
+2018-08-14T09:38:33.291Z - normal: Finish building raw assets
+2018-08-14T09:38:33.327Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:38:33.344Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:38:33.365Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:41:38.861Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:41:38.917Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:41:38.918Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:41:38.921Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:41:42.241Z - normal: Compiled project javascript file successfully
+2018-08-14T09:41:42.242Z - normal: Start building assets
+2018-08-14T09:41:42.242Z - normal: Start spawn build-worker
+2018-08-14T09:41:43.232Z - normal: Finish spawn build-worker
+2018-08-14T09:41:43.232Z - normal: Start init build-worker
+2018-08-14T09:41:46.356Z - normal: 1.9.2
+2018-08-14T09:41:46.600Z - normal: Finish init build-worker
+2018-08-14T09:41:46.600Z - normal: Start build-assets in worker
+2018-08-14T09:41:47.266Z - normal: Finish build-assets in worker
+2018-08-14T09:41:47.269Z - normal: Finish building assets
+2018-08-14T09:41:47.281Z - normal: Start building raw assets
+2018-08-14T09:41:47.282Z - normal: Start building plugin scripts
+2018-08-14T09:41:47.348Z - normal: Finish building raw assets
+2018-08-14T09:41:47.428Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:41:47.446Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:41:47.477Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T09:45:21.150Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T09:45:21.186Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T09:45:21.186Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T09:45:21.190Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T09:45:24.892Z - normal: Compiled project javascript file successfully
+2018-08-14T09:45:24.893Z - normal: Start building assets
+2018-08-14T09:45:24.893Z - normal: Start spawn build-worker
+2018-08-14T09:45:25.973Z - normal: Finish spawn build-worker
+2018-08-14T09:45:25.974Z - normal: Start init build-worker
+2018-08-14T09:45:29.082Z - normal: 1.9.2
+2018-08-14T09:45:29.400Z - normal: Finish init build-worker
+2018-08-14T09:45:29.401Z - normal: Start build-assets in worker
+2018-08-14T09:45:30.488Z - normal: Finish build-assets in worker
+2018-08-14T09:45:30.518Z - normal: Finish building assets
+2018-08-14T09:45:30.531Z - normal: Start building raw assets
+2018-08-14T09:45:30.532Z - normal: Start building plugin scripts
+2018-08-14T09:45:30.593Z - normal: Finish building raw assets
+2018-08-14T09:45:30.639Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T09:45:30.651Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T09:45:30.741Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T10:10:14.909Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T10:10:14.960Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T10:10:14.960Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T10:10:14.963Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T10:10:18.376Z - normal: Compiled project javascript file successfully
+2018-08-14T10:10:18.376Z - normal: Start building assets
+2018-08-14T10:10:18.376Z - normal: Start spawn build-worker
+2018-08-14T10:10:19.376Z - normal: Finish spawn build-worker
+2018-08-14T10:10:19.377Z - normal: Start init build-worker
+2018-08-14T10:10:22.461Z - normal: 1.9.2
+2018-08-14T10:10:22.703Z - normal: Finish init build-worker
+2018-08-14T10:10:22.703Z - normal: Start build-assets in worker
+2018-08-14T10:10:23.320Z - normal: Finish build-assets in worker
+2018-08-14T10:10:23.324Z - normal: Finish building assets
+2018-08-14T10:10:23.334Z - normal: Start building raw assets
+2018-08-14T10:10:23.335Z - normal: Start building plugin scripts
+2018-08-14T10:10:23.395Z - normal: Finish building raw assets
+2018-08-14T10:10:23.475Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T10:10:23.482Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T10:10:23.517Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T10:11:25.681Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T10:11:25.711Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T10:11:25.712Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T10:11:25.713Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T10:11:30.757Z - normal: Compiled project javascript file successfully
+2018-08-14T10:11:30.758Z - normal: Start building assets
+2018-08-14T10:11:30.758Z - normal: Start spawn build-worker
+2018-08-14T10:11:32.887Z - normal: Finish spawn build-worker
+2018-08-14T10:11:32.887Z - normal: Start init build-worker
+2018-08-14T10:11:38.037Z - normal: 1.9.2
+2018-08-14T10:11:38.382Z - normal: Finish init build-worker
+2018-08-14T10:11:38.382Z - normal: Start build-assets in worker
+2018-08-14T10:11:39.075Z - normal: Finish build-assets in worker
+2018-08-14T10:11:39.080Z - normal: Finish building assets
+2018-08-14T10:11:39.090Z - normal: Start building raw assets
+2018-08-14T10:11:39.091Z - normal: Start building plugin scripts
+2018-08-14T10:11:39.148Z - normal: Finish building raw assets
+2018-08-14T10:11:39.196Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T10:11:39.207Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T10:11:39.249Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T10:17:39.102Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T10:17:39.122Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T10:17:39.122Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T10:17:39.124Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T10:17:42.413Z - normal: Compiled project javascript file successfully
+2018-08-14T10:17:42.413Z - normal: Start building assets
+2018-08-14T10:17:42.413Z - normal: Start spawn build-worker
+2018-08-14T10:17:43.479Z - normal: Finish spawn build-worker
+2018-08-14T10:17:43.479Z - normal: Start init build-worker
+2018-08-14T10:17:46.426Z - normal: 1.9.2
+2018-08-14T10:17:46.648Z - normal: Finish init build-worker
+2018-08-14T10:17:46.648Z - normal: Start build-assets in worker
+2018-08-14T10:17:47.221Z - normal: Finish build-assets in worker
+2018-08-14T10:17:47.230Z - normal: Finish building assets
+2018-08-14T10:17:47.237Z - normal: Start building raw assets
+2018-08-14T10:17:47.238Z - normal: Start building plugin scripts
+2018-08-14T10:17:47.305Z - normal: Finish building raw assets
+2018-08-14T10:17:47.353Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T10:17:47.366Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T10:17:47.396Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T10:20:53.314Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T10:20:53.385Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T10:20:53.386Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T10:20:53.389Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T10:20:57.148Z - normal: Compiled project javascript file successfully
+2018-08-14T10:20:57.148Z - normal: Start building assets
+2018-08-14T10:20:57.148Z - normal: Start spawn build-worker
+2018-08-14T10:20:58.270Z - normal: Finish spawn build-worker
+2018-08-14T10:20:58.270Z - normal: Start init build-worker
+2018-08-14T10:21:02.098Z - normal: 1.9.2
+2018-08-14T10:21:02.348Z - normal: Finish init build-worker
+2018-08-14T10:21:02.348Z - normal: Start build-assets in worker
+2018-08-14T10:21:02.949Z - normal: Finish build-assets in worker
+2018-08-14T10:21:02.953Z - normal: Finish building assets
+2018-08-14T10:21:02.960Z - normal: Start building raw assets
+2018-08-14T10:21:02.961Z - normal: Start building plugin scripts
+2018-08-14T10:21:03.039Z - normal: Finish building raw assets
+2018-08-14T10:21:03.065Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T10:21:03.078Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T10:21:03.106Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T10:23:07.003Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T10:23:07.076Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T10:23:07.077Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T10:23:07.082Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T10:23:12.200Z - normal: Compiled project javascript file successfully
+2018-08-14T10:23:12.200Z - normal: Start building assets
+2018-08-14T10:23:12.200Z - normal: Start spawn build-worker
+2018-08-14T10:23:14.482Z - normal: Finish spawn build-worker
+2018-08-14T10:23:14.482Z - normal: Start init build-worker
+2018-08-14T10:23:17.594Z - normal: 1.9.2
+2018-08-14T10:23:17.829Z - normal: Finish init build-worker
+2018-08-14T10:23:17.829Z - normal: Start build-assets in worker
+2018-08-14T10:23:18.368Z - normal: Finish build-assets in worker
+2018-08-14T10:23:18.371Z - normal: Finish building assets
+2018-08-14T10:23:18.381Z - normal: Start building raw assets
+2018-08-14T10:23:18.382Z - normal: Start building plugin scripts
+2018-08-14T10:23:18.462Z - normal: Finish building raw assets
+2018-08-14T10:23:18.509Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T10:23:18.578Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T10:23:18.603Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-14T10:29:24.718Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-14T10:29:24.741Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-14T10:29:24.741Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-14T10:29:24.745Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-14T10:29:27.619Z - normal: Compiled project javascript file successfully
+2018-08-14T10:29:27.619Z - normal: Start building assets
+2018-08-14T10:29:27.619Z - normal: Start spawn build-worker
+2018-08-14T10:29:28.542Z - normal: Finish spawn build-worker
+2018-08-14T10:29:28.542Z - normal: Start init build-worker
+2018-08-14T10:29:31.434Z - normal: 1.9.2
+2018-08-14T10:29:31.649Z - normal: Finish init build-worker
+2018-08-14T10:29:31.649Z - normal: Start build-assets in worker
+2018-08-14T10:29:32.173Z - normal: Finish build-assets in worker
+2018-08-14T10:29:32.180Z - normal: Finish building assets
+2018-08-14T10:29:32.187Z - normal: Start building raw assets
+2018-08-14T10:29:32.188Z - normal: Start building plugin scripts
+2018-08-14T10:29:32.263Z - normal: Finish building raw assets
+2018-08-14T10:29:32.288Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-14T10:29:32.299Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-14T10:29:32.652Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T03:51:19.041Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:563261
+2018-08-17T03:51:19.084Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:563263
+2018-08-17T03:51:19.084Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:563264
+2018-08-17T03:51:19.085Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:563265
+2018-08-17T03:52:21.441Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T03:52:21.504Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T03:52:21.505Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T03:52:21.506Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T03:52:46.757Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:564408
+2018-08-17T03:53:23.115Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:564418
+2018-08-17T03:53:23.161Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:564420
+2018-08-17T03:53:23.162Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:564421
+2018-08-17T03:53:23.162Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:564422
+2018-08-17T03:53:23.163Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:564423
+2018-08-17T03:53:23.163Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:564424
+2018-08-17T03:53:27.209Z - normal: Compiled project javascript file successfully
+2018-08-17T03:53:27.210Z - normal: Start building assets
+2018-08-17T03:53:27.210Z - normal: Start spawn build-worker
+2018-08-17T03:53:28.290Z - normal: Finish spawn build-worker
+2018-08-17T03:53:28.291Z - normal: Start init build-worker
+2018-08-17T03:53:32.719Z - normal: 1.9.2
+2018-08-17T03:53:33.014Z - normal: Finish init build-worker
+2018-08-17T03:53:33.014Z - normal: Start build-assets in worker
+2018-08-17T03:53:33.672Z - normal: Finish build-assets in worker
+2018-08-17T03:53:33.675Z - normal: Finish building assets
+2018-08-17T03:53:33.723Z - normal: Start building raw assets
+2018-08-17T03:53:33.725Z - normal: Start building plugin scripts
+2018-08-17T03:53:33.808Z - normal: Finish building raw assets
+2018-08-17T03:53:33.908Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T03:53:34.019Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T03:53:34.416Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T03:58:55.854Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T03:58:55.870Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T03:58:55.871Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T03:58:55.872Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T03:58:59.226Z - normal: Compiled project javascript file successfully
+2018-08-17T03:58:59.226Z - normal: Start building assets
+2018-08-17T03:58:59.226Z - normal: Start spawn build-worker
+2018-08-17T03:59:00.334Z - normal: Finish spawn build-worker
+2018-08-17T03:59:00.334Z - normal: Start init build-worker
+2018-08-17T03:59:03.266Z - normal: 1.9.2
+2018-08-17T03:59:03.458Z - normal: Finish init build-worker
+2018-08-17T03:59:03.458Z - normal: Start build-assets in worker
+2018-08-17T03:59:03.968Z - normal: Finish build-assets in worker
+2018-08-17T03:59:03.971Z - normal: Finish building assets
+2018-08-17T03:59:03.991Z - normal: Start building raw assets
+2018-08-17T03:59:03.992Z - normal: Start building plugin scripts
+2018-08-17T03:59:04.075Z - normal: Finish building raw assets
+2018-08-17T03:59:04.108Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T03:59:04.115Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T03:59:04.150Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:08:12.742Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:08:12.789Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:08:12.789Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:08:12.795Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:08:17.037Z - normal: Compiled project javascript file successfully
+2018-08-17T04:08:17.037Z - normal: Start building assets
+2018-08-17T04:08:17.037Z - normal: Start spawn build-worker
+2018-08-17T04:08:18.134Z - normal: Finish spawn build-worker
+2018-08-17T04:08:18.135Z - normal: Start init build-worker
+2018-08-17T04:08:21.242Z - normal: 1.9.2
+2018-08-17T04:08:21.515Z - normal: Finish init build-worker
+2018-08-17T04:08:21.515Z - normal: Start build-assets in worker
+2018-08-17T04:08:22.069Z - normal: Finish build-assets in worker
+2018-08-17T04:08:22.077Z - normal: Finish building assets
+2018-08-17T04:08:22.104Z - normal: Start building raw assets
+2018-08-17T04:08:22.105Z - normal: Start building plugin scripts
+2018-08-17T04:08:22.198Z - normal: Finish building raw assets
+2018-08-17T04:08:22.242Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:08:22.254Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:08:22.332Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:16:36.466Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:16:36.476Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:16:36.476Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:16:36.477Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:16:40.252Z - normal: Compiled project javascript file successfully
+2018-08-17T04:16:40.252Z - normal: Start building assets
+2018-08-17T04:16:40.252Z - normal: Start spawn build-worker
+2018-08-17T04:16:41.423Z - normal: Finish spawn build-worker
+2018-08-17T04:16:41.424Z - normal: Start init build-worker
+2018-08-17T04:16:45.011Z - normal: 1.9.2
+2018-08-17T04:16:45.237Z - normal: Finish init build-worker
+2018-08-17T04:16:45.237Z - normal: Start build-assets in worker
+2018-08-17T04:16:45.930Z - normal: Finish build-assets in worker
+2018-08-17T04:16:45.939Z - normal: Finish building assets
+2018-08-17T04:16:45.958Z - normal: Start building raw assets
+2018-08-17T04:16:45.959Z - normal: Start building plugin scripts
+2018-08-17T04:16:46.089Z - normal: Finish building raw assets
+2018-08-17T04:16:46.154Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:16:46.190Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:16:46.349Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:17:49.315Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:17:49.331Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:17:49.331Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:17:49.332Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:17:52.879Z - normal: Compiled project javascript file successfully
+2018-08-17T04:17:52.880Z - normal: Start building assets
+2018-08-17T04:17:52.880Z - normal: Start spawn build-worker
+2018-08-17T04:17:53.943Z - normal: Finish spawn build-worker
+2018-08-17T04:17:53.943Z - normal: Start init build-worker
+2018-08-17T04:17:56.643Z - normal: 1.9.2
+2018-08-17T04:17:56.837Z - normal: Finish init build-worker
+2018-08-17T04:17:56.837Z - normal: Start build-assets in worker
+2018-08-17T04:17:57.375Z - normal: Finish build-assets in worker
+2018-08-17T04:17:57.378Z - normal: Finish building assets
+2018-08-17T04:17:57.404Z - normal: Start building raw assets
+2018-08-17T04:17:57.404Z - normal: Start building plugin scripts
+2018-08-17T04:17:57.490Z - normal: Finish building raw assets
+2018-08-17T04:17:57.521Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:17:57.535Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:17:57.586Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:18:52.212Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:18:52.221Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:18:52.221Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:18:52.223Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:18:57.827Z - normal: Compiled project javascript file successfully
+2018-08-17T04:18:57.828Z - normal: Start building assets
+2018-08-17T04:18:57.828Z - normal: Start spawn build-worker
+2018-08-17T04:19:00.757Z - normal: Finish spawn build-worker
+2018-08-17T04:19:00.757Z - normal: Start init build-worker
+2018-08-17T04:19:07.125Z - normal: 1.9.2
+2018-08-17T04:19:07.483Z - normal: Finish init build-worker
+2018-08-17T04:19:07.483Z - normal: Start build-assets in worker
+2018-08-17T04:19:08.391Z - normal: Finish build-assets in worker
+2018-08-17T04:19:08.409Z - normal: Finish building assets
+2018-08-17T04:19:08.434Z - normal: Start building raw assets
+2018-08-17T04:19:08.435Z - normal: Start building plugin scripts
+2018-08-17T04:19:08.510Z - normal: Finish building raw assets
+2018-08-17T04:19:08.553Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:19:08.566Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:19:08.633Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:20:40.763Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:20:40.827Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:20:40.827Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:20:40.832Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:20:46.997Z - normal: Compiled project javascript file successfully
+2018-08-17T04:20:47.018Z - normal: Start building assets
+2018-08-17T04:20:47.018Z - normal: Start spawn build-worker
+2018-08-17T04:20:48.856Z - normal: Finish spawn build-worker
+2018-08-17T04:20:48.856Z - normal: Start init build-worker
+2018-08-17T04:20:53.712Z - normal: 1.9.2
+2018-08-17T04:20:54.026Z - normal: Finish init build-worker
+2018-08-17T04:20:54.026Z - normal: Start build-assets in worker
+2018-08-17T04:20:54.727Z - normal: Finish build-assets in worker
+2018-08-17T04:20:54.744Z - normal: Finish building assets
+2018-08-17T04:20:54.759Z - normal: Start building raw assets
+2018-08-17T04:20:54.760Z - normal: Start building plugin scripts
+2018-08-17T04:20:54.843Z - normal: Finish building raw assets
+2018-08-17T04:20:54.876Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:20:54.929Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:20:54.976Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:22:12.369Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:22:12.393Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:22:12.393Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:22:12.394Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:22:16.002Z - normal: Compiled project javascript file successfully
+2018-08-17T04:22:16.003Z - normal: Start building assets
+2018-08-17T04:22:16.003Z - normal: Start spawn build-worker
+2018-08-17T04:22:17.031Z - normal: Finish spawn build-worker
+2018-08-17T04:22:17.031Z - normal: Start init build-worker
+2018-08-17T04:22:19.853Z - normal: 1.9.2
+2018-08-17T04:22:20.049Z - normal: Finish init build-worker
+2018-08-17T04:22:20.049Z - normal: Start build-assets in worker
+2018-08-17T04:22:20.527Z - normal: Finish build-assets in worker
+2018-08-17T04:22:20.531Z - normal: Finish building assets
+2018-08-17T04:22:20.555Z - normal: Start building raw assets
+2018-08-17T04:22:20.556Z - normal: Start building plugin scripts
+2018-08-17T04:22:20.622Z - normal: Finish building raw assets
+2018-08-17T04:22:20.654Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:22:20.663Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:22:20.705Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:23:17.340Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:23:17.352Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:23:17.352Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:23:17.353Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:23:19.458Z - normal: Compiled project javascript file successfully
+2018-08-17T04:23:19.459Z - normal: Start building assets
+2018-08-17T04:23:19.459Z - normal: Start spawn build-worker
+2018-08-17T04:23:20.449Z - normal: Finish spawn build-worker
+2018-08-17T04:23:20.450Z - normal: Start init build-worker
+2018-08-17T04:23:22.667Z - normal: 1.9.2
+2018-08-17T04:23:22.824Z - normal: Finish init build-worker
+2018-08-17T04:23:22.824Z - normal: Start build-assets in worker
+2018-08-17T04:23:23.065Z - normal: Finish build-assets in worker
+2018-08-17T04:23:23.074Z - normal: Finish building assets
+2018-08-17T04:23:23.083Z - normal: Start building raw assets
+2018-08-17T04:23:23.084Z - normal: Start building plugin scripts
+2018-08-17T04:23:23.126Z - normal: Finish building raw assets
+2018-08-17T04:23:23.133Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:23:23.146Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:23:23.170Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:28:36.798Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:28:36.841Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:28:36.841Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:28:36.845Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:28:39.753Z - normal: Compiled project javascript file successfully
+2018-08-17T04:28:39.753Z - normal: Start building assets
+2018-08-17T04:28:39.754Z - normal: Start spawn build-worker
+2018-08-17T04:28:40.734Z - normal: Finish spawn build-worker
+2018-08-17T04:28:40.734Z - normal: Start init build-worker
+2018-08-17T04:28:43.551Z - normal: 1.9.2
+2018-08-17T04:28:43.993Z - normal: Finish init build-worker
+2018-08-17T04:28:43.994Z - normal: Start build-assets in worker
+2018-08-17T04:28:44.626Z - normal: Finish build-assets in worker
+2018-08-17T04:28:44.629Z - normal: Finish building assets
+2018-08-17T04:28:44.647Z - normal: Start building raw assets
+2018-08-17T04:28:44.648Z - normal: Start building plugin scripts
+2018-08-17T04:28:44.744Z - normal: Finish building raw assets
+2018-08-17T04:28:44.790Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:28:44.813Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:28:44.914Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T04:30:46.782Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T04:30:46.820Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T04:30:46.821Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T04:30:46.825Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T04:30:50.014Z - normal: Compiled project javascript file successfully
+2018-08-17T04:30:50.014Z - normal: Start building assets
+2018-08-17T04:30:50.014Z - normal: Start spawn build-worker
+2018-08-17T04:30:51.008Z - normal: Finish spawn build-worker
+2018-08-17T04:30:51.008Z - normal: Start init build-worker
+2018-08-17T04:30:53.832Z - normal: 1.9.2
+2018-08-17T04:30:54.061Z - normal: Finish init build-worker
+2018-08-17T04:30:54.062Z - normal: Start build-assets in worker
+2018-08-17T04:30:54.543Z - normal: Finish build-assets in worker
+2018-08-17T04:30:54.548Z - normal: Finish building assets
+2018-08-17T04:30:54.568Z - normal: Start building raw assets
+2018-08-17T04:30:54.569Z - normal: Start building plugin scripts
+2018-08-17T04:30:54.644Z - normal: Finish building raw assets
+2018-08-17T04:30:54.677Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T04:30:54.691Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T04:30:54.736Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T05:54:07.171Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T05:54:07.242Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T05:54:07.242Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T05:54:07.246Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T05:54:10.462Z - normal: Compiled project javascript file successfully
+2018-08-17T05:54:10.463Z - normal: Start building assets
+2018-08-17T05:54:10.463Z - normal: Start spawn build-worker
+2018-08-17T05:54:11.470Z - normal: Finish spawn build-worker
+2018-08-17T05:54:11.470Z - normal: Start init build-worker
+2018-08-17T05:54:15.108Z - normal: 1.9.2
+2018-08-17T05:54:15.361Z - normal: Finish init build-worker
+2018-08-17T05:54:15.361Z - normal: Start build-assets in worker
+2018-08-17T05:54:16.062Z - normal: Finish build-assets in worker
+2018-08-17T05:54:16.068Z - normal: Finish building assets
+2018-08-17T05:54:16.091Z - normal: Start building raw assets
+2018-08-17T05:54:16.092Z - normal: Start building plugin scripts
+2018-08-17T05:54:16.209Z - normal: Finish building raw assets
+2018-08-17T05:54:16.267Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T05:54:16.292Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T05:54:16.493Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T05:55:16.739Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T05:55:16.784Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T05:55:16.785Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T05:55:16.785Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T05:55:19.667Z - normal: Compiled project javascript file successfully
+2018-08-17T05:55:19.668Z - normal: Start building assets
+2018-08-17T05:55:19.668Z - normal: Start spawn build-worker
+2018-08-17T05:55:20.711Z - normal: Finish spawn build-worker
+2018-08-17T05:55:20.712Z - normal: Start init build-worker
+2018-08-17T05:55:23.553Z - normal: 1.9.2
+2018-08-17T05:55:23.774Z - normal: Finish init build-worker
+2018-08-17T05:55:23.775Z - normal: Start build-assets in worker
+2018-08-17T05:55:24.263Z - normal: Finish build-assets in worker
+2018-08-17T05:55:24.269Z - normal: Finish building assets
+2018-08-17T05:55:24.290Z - normal: Start building raw assets
+2018-08-17T05:55:24.292Z - normal: Start building plugin scripts
+2018-08-17T05:55:24.357Z - normal: Finish building raw assets
+2018-08-17T05:55:24.390Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T05:55:24.394Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T05:55:24.409Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T05:56:21.470Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T05:56:21.510Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T05:56:21.510Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T05:56:21.511Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T05:56:24.250Z - normal: Compiled project javascript file successfully
+2018-08-17T05:56:24.251Z - normal: Start building assets
+2018-08-17T05:56:24.251Z - normal: Start spawn build-worker
+2018-08-17T05:56:25.318Z - normal: Finish spawn build-worker
+2018-08-17T05:56:25.319Z - normal: Start init build-worker
+2018-08-17T05:56:28.108Z - normal: 1.9.2
+2018-08-17T05:56:28.304Z - normal: Finish init build-worker
+2018-08-17T05:56:28.305Z - normal: Start build-assets in worker
+2018-08-17T05:56:28.779Z - normal: Finish build-assets in worker
+2018-08-17T05:56:28.786Z - normal: Finish building assets
+2018-08-17T05:56:28.797Z - normal: Start building raw assets
+2018-08-17T05:56:28.798Z - normal: Start building plugin scripts
+2018-08-17T05:56:28.868Z - normal: Finish building raw assets
+2018-08-17T05:56:28.899Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T05:56:28.910Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T05:56:28.943Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T05:57:25.981Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T05:57:26.051Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T05:57:26.052Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T05:57:26.054Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T05:57:33.865Z - normal: Compiled project javascript file successfully
+2018-08-17T05:57:33.865Z - normal: Start building assets
+2018-08-17T05:57:33.865Z - normal: Start spawn build-worker
+2018-08-17T05:57:37.280Z - normal: Finish spawn build-worker
+2018-08-17T05:57:37.280Z - normal: Start init build-worker
+2018-08-17T05:57:42.422Z - normal: 1.9.2
+2018-08-17T05:57:42.741Z - normal: Finish init build-worker
+2018-08-17T05:57:42.742Z - normal: Start build-assets in worker
+2018-08-17T05:57:44.035Z - normal: Finish build-assets in worker
+2018-08-17T05:57:44.050Z - normal: Finish building assets
+2018-08-17T05:57:44.074Z - normal: Start building raw assets
+2018-08-17T05:57:44.076Z - normal: Start building plugin scripts
+2018-08-17T05:57:44.188Z - normal: Finish building raw assets
+2018-08-17T05:57:44.233Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T05:57:44.271Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T05:57:44.653Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T06:00:52.465Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T06:00:52.526Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T06:00:52.526Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T06:00:52.527Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T06:00:55.476Z - normal: Compiled project javascript file successfully
+2018-08-17T06:00:55.477Z - normal: Start building assets
+2018-08-17T06:00:55.477Z - normal: Start spawn build-worker
+2018-08-17T06:00:56.430Z - normal: Finish spawn build-worker
+2018-08-17T06:00:56.430Z - normal: Start init build-worker
+2018-08-17T06:00:59.161Z - normal: 1.9.2
+2018-08-17T06:00:59.317Z - normal: Finish init build-worker
+2018-08-17T06:00:59.317Z - normal: Start build-assets in worker
+2018-08-17T06:00:59.845Z - normal: Finish build-assets in worker
+2018-08-17T06:00:59.850Z - normal: Finish building assets
+2018-08-17T06:00:59.860Z - normal: Start building raw assets
+2018-08-17T06:00:59.861Z - normal: Start building plugin scripts
+2018-08-17T06:00:59.933Z - normal: Finish building raw assets
+2018-08-17T06:00:59.954Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T06:00:59.960Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T06:00:59.990Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T06:23:26.448Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T06:23:26.514Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T06:23:26.515Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T06:23:26.520Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T06:23:30.830Z - normal: Compiled project javascript file successfully
+2018-08-17T06:23:30.830Z - normal: Start building assets
+2018-08-17T06:23:30.830Z - normal: Start spawn build-worker
+2018-08-17T06:23:31.764Z - normal: Finish spawn build-worker
+2018-08-17T06:23:31.764Z - normal: Start init build-worker
+2018-08-17T06:23:35.264Z - normal: 1.9.2
+2018-08-17T06:23:35.594Z - normal: Finish init build-worker
+2018-08-17T06:23:35.595Z - normal: Start build-assets in worker
+2018-08-17T06:23:36.354Z - normal: Finish build-assets in worker
+2018-08-17T06:23:36.358Z - normal: Finish building assets
+2018-08-17T06:23:36.368Z - normal: Start building raw assets
+2018-08-17T06:23:36.369Z - normal: Start building plugin scripts
+2018-08-17T06:23:36.567Z - normal: Finish building raw assets
+2018-08-17T06:23:36.601Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T06:23:36.625Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T06:23:36.915Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T06:28:30.957Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T06:28:31.014Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T06:28:31.015Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T06:28:31.018Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T06:28:34.175Z - normal: Compiled project javascript file successfully
+2018-08-17T06:28:34.176Z - normal: Start building assets
+2018-08-17T06:28:34.176Z - normal: Start spawn build-worker
+2018-08-17T06:28:35.155Z - normal: Finish spawn build-worker
+2018-08-17T06:28:35.155Z - normal: Start init build-worker
+2018-08-17T06:28:37.920Z - normal: 1.9.2
+2018-08-17T06:28:38.096Z - normal: Finish init build-worker
+2018-08-17T06:28:38.096Z - normal: Start build-assets in worker
+2018-08-17T06:28:38.557Z - normal: Finish build-assets in worker
+2018-08-17T06:28:38.560Z - normal: Finish building assets
+2018-08-17T06:28:38.571Z - normal: Start building raw assets
+2018-08-17T06:28:38.572Z - normal: Start building plugin scripts
+2018-08-17T06:28:38.657Z - normal: Finish building raw assets
+2018-08-17T06:28:38.691Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T06:28:38.704Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T06:28:38.747Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T06:30:18.029Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T06:30:18.076Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T06:30:18.076Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T06:30:18.077Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T06:30:20.942Z - normal: Compiled project javascript file successfully
+2018-08-17T06:30:20.942Z - normal: Start building assets
+2018-08-17T06:30:20.942Z - normal: Start spawn build-worker
+2018-08-17T06:30:21.927Z - normal: Finish spawn build-worker
+2018-08-17T06:30:21.928Z - normal: Start init build-worker
+2018-08-17T06:30:24.628Z - normal: 1.9.2
+2018-08-17T06:30:24.795Z - normal: Finish init build-worker
+2018-08-17T06:30:24.795Z - normal: Start build-assets in worker
+2018-08-17T06:30:25.248Z - normal: Finish build-assets in worker
+2018-08-17T06:30:25.257Z - normal: Finish building assets
+2018-08-17T06:30:25.264Z - normal: Start building raw assets
+2018-08-17T06:30:25.264Z - normal: Start building plugin scripts
+2018-08-17T06:30:25.323Z - normal: Finish building raw assets
+2018-08-17T06:30:25.344Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T06:30:25.349Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T06:30:25.397Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T06:32:07.341Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T06:32:07.390Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T06:32:07.391Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T06:32:07.393Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T06:32:10.508Z - normal: Compiled project javascript file successfully
+2018-08-17T06:32:10.508Z - normal: Start building assets
+2018-08-17T06:32:10.509Z - normal: Start spawn build-worker
+2018-08-17T06:32:11.453Z - normal: Finish spawn build-worker
+2018-08-17T06:32:11.453Z - normal: Start init build-worker
+2018-08-17T06:32:15.645Z - normal: 1.9.2
+2018-08-17T06:32:15.997Z - normal: Finish init build-worker
+2018-08-17T06:32:15.997Z - normal: Start build-assets in worker
+2018-08-17T06:32:16.811Z - normal: Finish build-assets in worker
+2018-08-17T06:32:16.814Z - normal: Finish building assets
+2018-08-17T06:32:16.826Z - normal: Start building raw assets
+2018-08-17T06:32:16.827Z - normal: Start building plugin scripts
+2018-08-17T06:32:16.912Z - normal: Finish building raw assets
+2018-08-17T06:32:16.945Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T06:32:16.960Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T06:32:16.987Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-17T06:35:37.613Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/talefun-zhang/cocosCreator/HelloTs/build",
+  "debug": false,
+  "dest": "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "ScrollView",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "Slider",
+    "Layout",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "DragonBones",
+    "StudioComponent",
+    "Chipmunk",
+    "Camera",
+    "Native NetWork"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "5c84518d-a45a-4b29-af3a-e63393aa7809"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7930af15-372f-4a",
+  "zipCompressJs": true,
+  "project": "/Users/talefun-zhang/cocosCreator/HelloTs",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-17T06:35:37.678Z - normal: Building /Users/talefun-zhang/cocosCreator/HelloTs
+2018-08-17T06:35:37.678Z - normal: Destination /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile
+2018-08-17T06:35:37.681Z - normal: Delete /Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile/**/*
+2018-08-17T06:35:40.872Z - normal: Compiled project javascript file successfully
+2018-08-17T06:35:40.872Z - normal: Start building assets
+2018-08-17T06:35:40.872Z - normal: Start spawn build-worker
+2018-08-17T06:35:41.899Z - normal: Finish spawn build-worker
+2018-08-17T06:35:41.899Z - normal: Start init build-worker
+2018-08-17T06:35:45.481Z - normal: 1.9.2
+2018-08-17T06:35:45.674Z - normal: Finish init build-worker
+2018-08-17T06:35:45.674Z - normal: Start build-assets in worker
+2018-08-17T06:35:46.228Z - normal: Finish build-assets in worker
+2018-08-17T06:35:46.231Z - normal: Finish building assets
+2018-08-17T06:35:46.240Z - normal: Start building raw assets
+2018-08-17T06:35:46.241Z - normal: Start building plugin scripts
+2018-08-17T06:35:46.323Z - normal: Finish building raw assets
+2018-08-17T06:35:46.391Z - normal: Generating main.js from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-17T06:35:46.397Z - normal: Generating html from /Applications/CocosCreator192.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-08-17T06:35:46.411Z - normal: Built to "/Users/talefun-zhang/cocosCreator/HelloTs/build/web-mobile" successfully
+2018-08-13T08:17:52.530Z - info: shutdown preview server
