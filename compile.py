@@ -65,34 +65,7 @@ def read_in_chunks(filePath, chunk_size=1024*1024):
   file_object = open(filePath)
   return file_object.read()
 
-def getBody(dom):
-  root = dom.documentElement
-  body = root.getElementsByTagName('body')
-  return body
-
-def addScriptNode(dom):
-  body = getBody(dom)
-  scriptNode = dom.createElement('script')
-  scriptNode.setAttribute('charset', 'utf-8')
-  body[0].appendChild(scriptNode)
-  return scriptNode
-  
-
-def getHtmlDomObj():
-  if os.path.exists(htmlPath):
-    dom = xml.dom.minidom.parse(htmlPath)
-    return dom
-
-def addScript(dom):
-  for path in addScriptPathList:
-    if os.path.exists(path):
-      scrStr = read_in_chunks(path)
-      scrNode = addScriptNode(dom)
-      textNode = dom.createTextNode(scrStr)
-      scrNode.appendChild(textNode)
-
 def writeToPath(path, data):
-  jsonDir = {}
   with open(path,'w') as f: # 如果filename不存在会自动创建， 'w'表示写数据，写之前会清空文件中的原有数据！
     f.write(data)
 
