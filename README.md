@@ -16,11 +16,12 @@
 
 `python compile.py`
 
-> 双击`build/web-mobile/index.html`可以直接运行游戏
+> 脚本执行完毕后，双击`build/web-mobile/index.html`可以直接运行游戏
 
 * ***注意事项***
 
 ![Alt text](./readmeImage/image2.png)
 
 ***1.目前支持的二进制文件只有这4种有特殊需要可自行添加***
+
 ***2.目前不知支持使用字体文件(ttf)***
